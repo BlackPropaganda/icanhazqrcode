@@ -42,6 +42,8 @@ npm run deploy
 
 ## Optional: Enable AdSense on Landing Page
 
+gotta keep the lights on somehow guyz :>
+
 In `wrangler.toml`, set:
 
 ```toml
