@@ -1,0 +1,9 @@
+name = "icanhazqrcode"
+main = "src/index.ts"
+compatibility_date = "2026-02-17"
+workers_dev = true
+
+[vars]
+# Set your own values to enable AdSense on the landing page.
+ADSENSE_CLIENT = "ca-pub-5653320004923965"
+# ADSENSE_SLOT = "1234567890"
